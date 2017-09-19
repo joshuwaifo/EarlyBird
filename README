@@ -1,0 +1,45 @@
+This serves as the manual allowing the user to navigate the directories effectively.
+
+Goal predict quantifiably the startups that will Exit 
+
+Task 1:
+Investigate possible datasources and see if desired information can be retrieved
+
+
+Task 1.1:
+Checking if data can be retrieved from Pitchbook
+
+Info:
+The data to be retrieved includes Startup employee information and their social media presence (ie Twitter)
+
+Observations/notes:
+Pitchbook monthly download limit (according to Christoph) is 1000 rows (each row representing a startup), additional daily limit of 500 rows
+Christoph gave the first data export (500 VC-backed startups, each have at least 5 million euro funding and headquarted in Europe) ** see data/PitchBook(...).xlsx **
+Still awaiting feedback from Pitchbook for permission (they could provide an API)
+
+Task 1.2:
+Checking if data can be retrieved from Crunchbase
+
+
+Task 1.3:
+Checking if data can be retrieved from LinkedIn
+
+
+Task 1.4
+Clean up data sent by Christoph into a well-formatted csv file
+
+
+
+
+
+
+
+
+
+
+
+Admin work:
+Catchup occurs every friday at 3pm London time / 4pm Berlin time
+** VC: venture capitalist
+** PB: Pitchbook
+** Exit: Be bought or give an initial public offering (IPO) 
