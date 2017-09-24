@@ -17,13 +17,18 @@ Pitchbook monthly download limit (according to Christoph) is 1000 rows (each row
 Christoph gave the first data export (500 VC-backed startups, each have at least 5 million euro funding and headquarted in Europe) ** see data/PitchBook(...).xlsx **
 Still awaiting feedback from Pitchbook for permission (they could provide an API)
 
+DONE
+
+
 Task 1.2:
 Checking if data can be retrieved from Crunchbase
 
+DONE
 
 Task 1.3:
 Checking if data can be retrieved from LinkedIn
 
+DONE
 
 Task 1.4
 Clean up data sent by Christoph into a well-formatted csv file
