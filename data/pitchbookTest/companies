@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VC-Backed Companies | PE-Backed Companies | Startup Database</title>
+<meta name="description" content="PitchBook tracks over 300,000 private companies and their investment histories, valuations, growth rates and executive teams.">
+
+
+<meta property="og:title" content="List of Startups | VC-Backed Companies | PE-Backed Companies"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://pitchbook.com/platform-data/companies"/>
+<meta property="og:description" content="The PitchBook Platform tracks public & private companies, investors, limited partners, funds, mergers, acquisitions, PE & VC transactions, and the people involved. Check out the full scope of our data."/>
+<meta property="og:image" content="https://pitchbook.com/img/social-media/facebook/PitchBook-Facebook-Data.jpg?uq=LpOSAGq7"/>
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@PitchBook">
+<meta name="twitter:title" content="List of Startups | VC-Backed Companies | PE-Backed Companies">
+<meta name="twitter:description" content="See PitchBook's coverage of private & public companies, investors, limited partners, funds, deals and the people involved.">
+<meta name="twitter:image" content="https://pitchbook.com/img/social-media/twitter/PitchBook-Twitter-CTA-Data.jpg">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="3Vt_th4lM3NPlJFvNYwasev55gqKbjLrBrXKMnuCl7c"/>
+<meta name="msvalidate.01" content="B4DB534BB1FA9A4B348D6C398A40EBBD" />
+<meta name="p:domain_verify" content="cd49808082659fabd87a856ea1dfabab"/>
+
+<script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "PitchBook",
+        "url" : "https://www.pitchbook.com",
+        "sameAs" : [
+            "https://www.facebook.com/PitchBookData",
+            "https://twitter.com/PitchBook",
+            "https://www.linkedin.com/company/pitchbook-data-inc-",
+            "https://plus.google.com/+pitchbook",
+            "https://www.youtube.com/user/PitchBook",
+            "https://www.instagram.com/pitchbookdata/"
+        ]
+    }
+</script>
+
+<link rel="shortcut icon" href="/favicon.ico?uq=LpOSAGq7"/>
+
+<link rel="stylesheet" type="text/css" href="/css/main.css?uq=LpOSAGq7"/>
+<!--[if lt IE 10]>
+<link href="/css/ie.css?uq=LpOSAGq7" rel="stylesheet" type="text/css"/>
+<![endif]-->
+
+<script type="text/javascript" src="/js/client/analytics.js?uq=LpOSAGq7"></script>
+<script type="text/javascript" src="/js/app-head.js?uq=LpOSAGq7"></script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/2108894897.js?uq=LpOSAGq7"></script>
+<script type="text/javascript" src="//cdn.evergage.com/beacon/pitchbook/engage/scripts/evergage.min.js"></script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKGGLQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div  class="simplify-menu__container">
+    <div class="login-part">
+        <div class="container clearfix main-horizontal-offset-L">
+            <div data-close-cookie-policy class="cookie-policy">
+                <span class="close-cookie-policy"></span>
+                <p data-cookie-policy-text></p>
+            </div>
+                        <div class="header-button float-right-XL">
+                <a class="white-in-white-button" href="https://my.pitchbook.com">Log
+                    in</a>
+                <a class="orange-button" href="/free-trial">Request a free trial</a>
+            </div>
+        </div>
+    </div>
+    <div data-simplify-menu class="simplify-menu">
+        <div class="container flex-container main-horizontal-offset-L border-bottom">
+            <a class="logo" href="/" title="Home"></a>
+            <div class="burger-menu-container">
+                <div data-burger-button class="burger-menu"></div>
+                <ul class="menu main-horizontal-offset-L offset-bottom-L-25" data-menu>
+                    <li data-background class="background"></li>
+                    <li data-sub-menu class="container menu-button hide-block-XL show-block-L offset-bottom-L-5">
+                        <div data-sub-menu-content>
+                            <a class="button orange-button" href="/free-trial">Request a free trial</a>
+                            <a class="button blue-button"
+                               href="https://my.pitchbook.com">Log in</a>
+                        </div>
+                    </li>
+                    <li class="data-sub-menu" data-sub-menu>
+                        <a class="menu__items" href="/products">Products</a>
+                    </li>
+                    <li class="data-sub-menu" data-sub-menu>
+                        <a class="menu__items" href="/solutions">Solutions</a>
+                    </li>
+                    <li class="data-sub-menu" data-sub-menu>
+                        <a class="menu__items" href="/data">Data</a>
+                    </li>
+                    <li class="data-sub-menu" data-sub-menu>
+                        <a class="menu__items" href="/news">News & Analysis</a>
+                    </li>
+                    <li class="data-sub-menu" data-sub-menu>
+                        <a class="menu__items" href="/about-pitchbook">About</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="data-type-header">
+        <img src="/img/data-type/companies-hero.jpg?uq=LpOSAGq7" alt="PitchBook companies data"/>
+
+        <div class="companies">
+<div class="navigation-wrap">
+    <div class="container-narrow">
+        <div class="main-horizontal-offset-L">
+            <div class="navigation-dots">
+                <a href="/platform-data/limited-partners">
+                    <span class="dot limited-partners-data"><span class="arrow"></span><span>Limited Partners</span></span>
+                </a>
+                <a href="/platform-data/funds">
+                    <span class="dot funds-data"><span class="arrow"></span><span>Funds</span></span>
+                </a>
+                <a href="/platform-data/investors">
+                    <span class="dot investor-data"><span class="arrow"></span><span>Investors</span></span>
+                </a>
+                <a href="/platform-data/deals">
+                    <span class="dot deals-data"><span class="arrow"></span><span>Deals</span></span>
+                </a>
+                <a href="/platform-data/companies">
+                    <span class="dot companies-data"><span class="arrow"></span><span>Companies</span></span>
+                </a>
+                <a href="/platform-data/financials">
+                    <span class="dot financials-data"><span class="arrow"></span><span>Financials</span></span>
+                </a>
+                <a href="/platform-data/mergers-and-acquisitions">
+                    <span class="dot mergers-and-acquisitions-data"><span class="arrow"></span><span>M&amp;A</span></span>
+                </a>
+                <a href="/platform-data/advisors">
+                    <span class="dot advisors-data"><span class="arrow"></span><span>Advisors</span></span>
+                </a>
+                <a href="/platform-data/people">
+                    <span class="dot people-data"><span class="arrow"></span><span>People</span></span>
+                </a>
+                <a href="/news">
+                    <span class="dot news"><span class="arrow"></span><span>Analysis</span></span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>        </div>
+
+        <div class="data-type-title">
+            <div class="container-narrowed">
+                <div class="main-horizontal-offset-L">
+                    <div class="offset-bottom-XL-30 offset-top-XL-45 offset-top-S-0">
+                        <div class="offset-top-XL-15 offset-top-S-0">
+                            <h1 class="centered-XL">Companies</h1>
+                        </div>
+                    </div>
+
+                    <div class="data-type-our-track">
+                    <p class="h4 uppercase">Types of Companies</p>
+
+                    <div class="data-type-types clearfix">
+                        <ul class="float-left-XL float-default-XS">
+                            <li>Startups</li>
+                            <li>VC-backed companies</li>
+                            <li>PE-backed companies</li>
+                        </ul>
+                        <ul class="float-left-XL float-default-XS">
+                            <li>Mature private companies</li>
+                            <li>Public companies</li>
+                            <li>Strategic acquirers</li>
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="offset-top-XL-30 centered-XL">
+                        <a href="/free-trial" class="orange-button ">Request a free trial</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="grey-bg">
+        <div class="container">
+        <div class="main-horizontal-offset-L offset-top-XL-45 offset-bottom-XL-5 offset-bottom-XS-0">
+                <div class="clearfix">
+                    <div class="column XL-6">
+                        <div class="centered-XL">
+                            <p class="live-numbers">916,129</p>
+
+                            <p class="live-numbers-description">Global private companies</p>
+                        </div>
+                    </div>
+                    <div class="column XL-6">
+                        <div class="centered-XL">
+                            <p class="live-numbers">76,804</p>
+
+                            <p class="live-numbers-description">Global public companies</p>
+                        </div>
+                    </div>
+                </div>
+                <h2 class="centered-XL shift-top-XL-30">Use data to get a better understanding of a company's story</h2>
+
+                <ul id="menu" class="scrollable-section-menu clearfix">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="data"></div>
+
+    <div class="grey-bg">
+        <h2 class="centered-XL shift-top-XL-0 offset-top-XL-45 shift-bottom-XL-35">Discover more answers with our data</h2>
+<div class="container">
+    <div class="summary-list clearfix">
+        <div class="summary-list-item">
+            <p class="title">Limited Partners</p>
+            <ul>
+                <li>Mandates</li>
+                <li>Allocations</li>
+                <li>Commitments</li>
+                <li>Returns</li>
+            </ul>
+            <a href="/platform-data/limited-partners" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Funds</p>
+            <ul>
+                <li>IRRs</li>
+                <li>DPI, RVPI, TVPI</li>
+                <li>PME</li>
+                <li>Custom benchmarks</li>
+            </ul>
+            <a href="/platform-data/funds" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Investors</p>
+            <ul>
+                <li>Portfolio</li>
+                <li>Lead partners</li>
+                <li>Deal details</li>
+                <li>Funds</li>
+            </ul>
+            <a href="/platform-data/investors" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Deals</p>
+            <ul>
+                <li>Valuations & multiples</li>
+                <li>Cap tables</li>
+                <li>Participants</li>
+                <li>Deal history</li>
+                <li>Exits & IPOs</li>
+            </ul>
+            <a href="/platform-data/deals" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Companies</p>
+            <ul>
+                <li>PE & VC-backed</li>
+                <li>Startup and angel-backed</li>
+                <li>Mature private companies</li>
+                <li>Public companies</li>
+                <li>Strategic acquirers</li>
+            </ul>
+            <a href="/platform-data/companies" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Financials</p>
+            <ul>
+                <li>Key private company financials</li>
+                <li>Full public company fundamentals</li>
+            </ul>
+            <a href="/platform-data/financials" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">M&A</p>
+            <ul>
+                <li>Strategic M&A</li>
+                <li>Sponsored M&A</li>
+                <li>Public and private M&A</li>
+                <li>Secondary transactions</li>
+            </ul>
+            <a href="/platform-data/mergers-and-acquisitions" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">Advisors</p>
+            <ul>
+                <li>Industry expertise</li>
+                <li>Regional focus</li>
+                <li>Lead partners & teams</li>
+                <li>Clients & network</li>
+            </ul>
+            <a href="/platform-data/advisors" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">People</p>
+            <ul>
+                <li>Contact information</li>
+                <li>LinkedIn connections</li>
+                <li>Board seats</li>
+                <li>Deal experience</li>
+                <li>Bio & education</li>
+            </ul>
+            <a href="/platform-data/people" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+        <div class="summary-list-item">
+            <p class="title">News & Analysis</p>
+            <ul>
+                <li>News</li>
+                <li>Quarterly reports</li>
+                <li>Data visualization</li>
+                <!--<li>Custom analytics</li>-->
+            </ul>
+            <a href="/news" class="white-in-orange-button smaller">Learn more</a>
+        </div>
+    </div>
+</div>
+    </div>
+
+<div class="orange-bg free-trial-bottom-part">
+    <div class="container-narrowed">
+        <div class="main-horizontal-offset-L">
+            <h2 class="centered-XL leftward-XS">See the PitchBook Platform for yourself</h2>
+
+            <div class="single-form biggest validate centered-XL">
+    <div data-free-trial-request class="clearfix">
+    <div class="text-field transparent">
+        <label for="email"></label>
+
+        <div class="text-input-side-offset">
+            <input id="email" data-email data-save="email-corporate" name="Email" type="text" maxlength="200" placeholder="email address"/>
+        </div>
+    </div>
+
+    <a href="/free-trial" data-request-free-trial class="orange-button request-free-trial-button">Request a free trial</a>
+</div>
+<script type="text/javascript" src="/js/client/free-trial-request.js?uq=LpOSAGq7"></script></div>        </div>
+    </div>
+</div><div class="footer">
+	<div class="container-narrow clearfix">
+		<div class="column XL-3 M-3 S-12">
+			<div class="offset-left-XL-15 offset-right-L-20">
+				<ul class="footer-main-menu">
+					<li class="leftward-XS"><a href="/">home</a></li>
+					<li class="leftward-XS"><a href="/products">product</a></li>
+                    <li class="leftward-XS"><a href="/about-pitchbook">about</a></li>
+                    <li class="leftward-XS"><a href="/careers-at-pitchbook">careers</a></li>
+                    <li class="leftward-XS"><a href="/contact">contact</a></li>
+                    <li class="leftward-XS"><a href="/news">News & Analysis</a></li>
+                    <li class="leftward-XS"><a href="/solutions">solutions</a></li>
+                    <li class="leftward-XS"><a href="/data">data</a></li>
+					<li class="leftward-XS"><a href="/free-trial" class="white-in-grey-button">Free trial</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column XL-3 M-3 S-0">
+			<div class="offset-left-XS-15 offset-right-XS-15 offset-top-XS-10">
+				<h3>PitchBook for...</h3>
+				<ul class="footer-menu">
+					<li><a href="/solutions/investment-banks">Investment banks</a></li>
+					<li><a href="/solutions/venture-capital">Venture capital firms</a></li>
+					<li><a href="/solutions/private-equity">Private equity firms</a></li>
+					<li><a href="/solutions/limited-partners">Limited partners</a></li>
+					<li><a href="/solutions/corporate-development">Corporate development</a></li>
+					<li><a href="/solutions/lenders">Lenders</a></li>
+					<li><a href="/solutions/law-firms">Law firms</a></li>
+					<li><a href="/solutions/accounting-firms">Accounting firms</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column XL-3 M-3 S-0">
+			<div class="offset-left-L-15 offset-right-L-20 offset-right-XS-15 offset-top-XS-10">
+			<h3>Our data</h3>
+			<ul class="footer-menu">
+                <li><a href="/platform-data/companies">Companies</a></li>
+                <li><a href="/platform-data/investors">Investors</a></li>
+                <li><a href="/platform-data/deals">Deals</a></li>
+                <li><a href="/platform-data/people">People</a></li>
+                <li><a href="/platform-data/limited-partners">LPs</a></li>
+                <li><a href="/platform-data/financials">Financials</a></li>
+                <li><a href="/platform-data/funds">Funds</a></li>
+                <li><a href="/platform-data/mergers-and-acquisitions">M&A</a></li>
+				<li><a href="/platform-data/advisors">Advisors</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="column XL-3 M-3 S-12">
+		<div class="offset-right-XL-10 offset-left-XS-15 offset-top-XS-10">
+			<div class="S-0">
+                <h3>Resources</h3>
+                <ul class="footer-menu">
+                    <li><a href="/nvca">PitchBook-NVCA partnership</a></li>
+                    <li><a href="/products/video-library">Video library</a></li>
+                    <li><a href="/client-testimonials">Customer testimonials</a></li>
+                    <li><a href="/media">Press inquiries</a></li>
+                    <li><a href="/events-calendar">Event Calendar</a></li>
+                    <li><a href="/sponsorship">Advertise with us</a></li>
+                    <li><a href="/get-started">Get started</a></li>
+                    <li><a href="/profiles/directory/companies/a">Company profile directory</a></li>
+                    <li><a href="/request-research">Request research</a></li>
+                    <li><a href="/request-your-pitchbook-profile">Request your profile</a></li>
+                    <li><a href="/submit-a-deal">Submit a deal</a></li>
+                    <li><a href="/subscribe">Subscribe to News & Analysis</a></li>
+                </ul>
+			</div>
+            <h3 class="leftward-XS shift-bottom-XL-15 shift-top-XL-45">follow us</h3>
+            <ul class="social-icon clearfix">
+				<li class="linkedin shift-right-XS-10"><a target="_blank" href="https://www.linkedin.com/company/pitchbook-data-inc-">&#xeac9;</a></li>
+				<li class="twitter shift-right-XS-10"><a target="_blank" href="https://twitter.com/PitchBook">&#xea91;</a></li>
+				<li class="facebook shift-right-XS-10"><a target="_blank" href="https://www.facebook.com/PitchBookData">&#xea8c;</a></li>
+				<li class="google-plus shift-right-XS-10"><a target="_blank" href="https://plus.google.com/+pitchbook">&#xe60b;</a></li>
+				<li class="instagram"><a target="_blank" href="https://www.instagram.com/pitchbookdata/">&#xe611;</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="footer-contacts">
+	<div class="offset-top-XL-45 offset-bottom-XL-45">
+		<div class="container-narrow clearfix">
+			<div class="column XL-3 XS-12">
+				<div class="offset-left-XL-15 offset-right-L-15 offset-right-XS-15">
+					<h3>US Headquarters</h3>
+
+					<p class="contact-us">
+                        +1 (206) 623.1986<br/>
+						901 Fifth Avenue<br/>
+						Suite 1200<br/>
+						Seattle, WA 98164<br/>
+					</p>
+				</div>
+			</div>
+			<div class="column XL-3 XS-12">
+				<div class="offset-left-XS-15 offset-right-M-15">
+					<h3>EUROPE Headquarters</h3>
+
+					<p class="contact-us">
+                        <a href="tel:+4402071909809">+44 (0) 207.190.9809</a><br/>
+                        1 Oliver&#8217;s Yard<br/>
+                        55-71 City Road<br/>
+                        London EC1Y 1HQ<br/>
+                        United Kingdom<br/>
+					</p>
+				</div>
+			</div>
+			<div class="column XL-3 XS-12">
+				<div class="offset-left-M-15 offset-right-XS-15">
+					<h3>NEW YORK</h3>
+
+					<p class="contact-us">
+                        +1 (206) 623.1986<br/>
+						155 Fifth Avenue<br/>
+						Suite 500<br/>
+						New York, NY 10010<br/>
+					</p>
+				</div>
+			</div>
+			<div class="column XL-3 XS-12">
+				<div class="offset-right-XL-15 offset-left-XS-15">
+					<h3>GENERAL INQUIRIES</h3>
+
+					<p class="contact-us">
+						<a class="pb-email" href="mailto:info@pitchbook.com">info@pitchbook.com</a>
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-narrow clearfix shift-top-XL-45">
+			<div class="offset-right-XS-15 offset-left-XS-15">
+				<p class="copyright">
+					&copy; 2017 PitchBook Data. All rights reserved. Venture capital, private equity and M&A data and technology provider.
+				</p>
+				<ul class="footer-link-separator clearfix">
+					<li><a href="/site-map">Site Map</a></li>
+					<li><a href="/terms-of-use">Terms of Use</a></li>
+					<li><a href="/privacy-policy">Privacy Policy</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<link rel="stylesheet" type="text/css" href="/css/app.css?uq=LpOSAGq7"/>
+<script type="text/javascript" src="/js/app.js?uq=LpOSAGq7"></script>
+
+    <script type="text/javascript" async src="//cdn.bizible.com/scripts/bizible.js?uq=LpOSAGq7"></script>
+
+<script type="text/javascript" src="/js/client/analytics-footer.js?uq=LpOSAGq7"></script>
+<script type="text/javascript" async src="//fast.wistia.com/assets/external/E-v1.js?uq=LpOSAGq7"></script>
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 986293078,
+        google_custom_params = window.google_tag_params,
+        google_remarketing_only = true;
+    /* ]]> */
+</script>
+<div style="display:none">
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js?uq=LpOSAGq7"></script>
+</div>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986293078/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=15937&fmt=gif&uq=LpOSAGq7" />
+</noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1752955298289295&ev=PageView&noscript=1"/></noscript>
+
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=reCaptchaOnloadCallback&render=explicit&uq=LpOSAGq7"></script>
+    <div class="re-captcha-bl">
+        <script type="text/javascript">
+            var reCaptchaOnloadCallback = function () {
+                $('.re-captcha').each(function (index, element) {
+                    var reCaptchaId = grecaptcha.render(element, {
+                        'sitekey': '6LfrvxUTAAAAAGN6l9psIK7yoGOSnL09yd7n8ee1',
+                        'callback': function () {
+                            var $reCaptcha = $(element);
+                            $reCaptcha.data('id', reCaptchaId);
+
+                            // jQuery Validation works on keyup
+                            $reCaptcha.find('.g-recaptcha-response').trigger('keyup');
+                        }
+                    });
+                });
+            };
+        </script>
+    </div>
+    <script type="text/javascript" src="/js/client/data/data-type/companies.js?uq=LpOSAGq7"></script>
+
+<!--[if IE 8]>
+<style>
+.standart-play-button {
+    display: none;
+}
+</style>
+<![endif]-->
+<script id="template-odd" type="text/template">
+    <div id="<%= id %>" class="container">
+        <div class="main-horizontal-offset-L offset-top-XL-35 offset-bottom-XL-30">
+            <div class="data-type-column video">
+                            <div data-video class="video-wrap">
+                    <div class="video-head"><span></span><span></span><span></span></div>
+                    <video poster="/img/data-type/<%= patch %>.jpg" alt="<%= alt %>" loop>
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.mp4"  type="video/mp4;">
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.ogv" type="video/ogg;">
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.webm" type="video/webm;">
+                        <img src="/img/data-type/<%= patch %>.jpg?uq=LpOSAGq7" alt="<%= alt %>">
+                    </video>
+                </div>
+            </div>
+            <div class="data-type-column text">
+                <div class="offset-left-L-25 offset-left-M-0">
+                    <h2><%= title %></h2>
+
+                    <p><%= description %></p>
+
+                    <% if (typeof button !== "undefined") { %>
+                    <div class="button">
+                        <img src="/img/solutions/firm-type/workflow/excel-plugin.png?uq=LpOSAGq7"/>
+                        <a href="/products/workflow-tools" class="white-in-orange-button small"><%= button %></a>
+                    </div>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script id="template-even" type="text/template">
+    <div class="grey-bg" id="<%= id %>">
+        <div class="container">
+            <div class="main-horizontal-offset-L offset-top-XL-35 offset-bottom-XL-30">
+                <div class="data-type-column text rightward-XL leftward-XS">
+                    <div class="offset-right-XL-25 offset-right-M-0">
+                        <h2><%= title %></h2>
+
+                        <p><%= description %></p>
+                    </div>
+                </div>
+                <div class="data-type-column video">
+                <div data-video class="video-wrap">
+                    <div class="video-head"><span></span><span></span><span></span></div>
+                    <video poster="/img/data-type/<%= patch %>.jpg" alt="<%= alt %>" loop>
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.mp4" type="video/mp4;">
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.ogv" type="video/ogg;">
+                        <source src="https://s3.amazonaws.com/pitchbookwebsite/<%= patch %>.webm" type="video/webm;">
+                        <img src="/img/data-type/<%= patch %>.jpg?uq=LpOSAGq7" alt="<%= alt %>">
+                    </video>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script><script id="template-menu" type="text/template">
+    <li>
+        <a href="#<%= link %>">
+        <span class="wrap">
+            <span class="title"><%= title %></span>
+        </span>
+        <span class="see-how">See how &#187;</span></a>
+    </li>
+</script>    <script type="text/javascript" src="/js/client/data-type.js?uq=LpOSAGq7"></script>
+</body>
+</html>
+
