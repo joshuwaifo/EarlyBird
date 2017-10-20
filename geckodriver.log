@@ -1,0 +1,29 @@
+1506868705911	geckodriver	INFO	geckodriver 0.19.0
+1506868705914	geckodriver	INFO	Listening on 127.0.0.1:48095
+1506868707036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FpAUX3Gs5GPY"
+1506868707756	Marionette	INFO	Listening on port 2828
+1506868813158	geckodriver	INFO	geckodriver 0.19.0
+1506868813161	geckodriver	INFO	Listening on 127.0.0.1:51322
+1506868814305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GSJVgK37pRB2"
+1506868815064	Marionette	INFO	Listening on port 2828
+1506868877005	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506868881360	geckodriver	INFO	geckodriver 0.19.0
+1506868881362	geckodriver	INFO	Listening on 127.0.0.1:37645
+1506868882484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.65paAtUU0RjT"
+1506868883174	Marionette	INFO	Listening on port 2828
+1506869249764	geckodriver	INFO	geckodriver 0.19.0
+1506869249767	geckodriver	INFO	Listening on 127.0.0.1:41981
+1506869250888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Nvxneoz5TXf6"
+1506869251602	Marionette	INFO	Listening on port 2828
+1506869304336	geckodriver	INFO	geckodriver 0.19.0
+1506869304339	geckodriver	INFO	Listening on 127.0.0.1:51781
+1506869305469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X1SGP7N4dqOB"
+1506869306160	Marionette	INFO	Listening on port 2828
+1506869598394	geckodriver	INFO	geckodriver 0.19.0
+1506869598397	geckodriver	INFO	Listening on 127.0.0.1:43386
+1506869599545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xoNU3YOSjjNn"
+1506869600246	Marionette	INFO	Listening on port 2828
+1506869693979	geckodriver	INFO	geckodriver 0.19.0
+1506869693982	geckodriver	INFO	Listening on 127.0.0.1:52597
+1506869695102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0UEpDfmnhUXK"
+1506869695795	Marionette	INFO	Listening on port 2828
